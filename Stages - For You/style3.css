@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background: #000000;
+  margin: 0px;
+  margin-top: 7.5px;
+}
+
+canvas {
+  border: 5px solid gray;
+}
+
+.big {
+  font-size: 50px;
+  color: #7f00ff;
+}
